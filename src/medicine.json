@@ -1,0 +1,502 @@
+[
+  {
+    "sno": 1,
+    "genericName": "Paracetamol 500mg",
+    "brandName": "Crocin",
+    "manufacturer": "GlaxoSmithKline",
+    "dosage": "500 mg",
+    "administrationTime": "Twice daily",
+    "duration": "5 days",
+    "instructions": "Take after food with water"
+  },
+  {
+    "sno": 2,
+    "genericName": "Amoxicillin 250mg",
+    "brandName": "Mox",
+    "manufacturer": "Sun Pharma",
+    "dosage": "250 mg",
+    "administrationTime": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Complete the course, do not skip doses"
+  },
+  {
+    "sno": 3,
+    "genericName": "Cetirizine 10mg",
+    "brandName": "Cetzine",
+    "manufacturer": "Dr. Reddy's",
+    "dosage": "10 mg",
+    "administrationTime": "Once daily at night",
+    "duration": "As prescribed",
+    "instructions": "May cause drowsiness, avoid driving"
+  },
+  {
+    "sno": 4,
+    "genericName": "Metformin 500mg",
+    "brandName": "Glycomet",
+    "manufacturer": "USV Ltd",
+    "dosage": "500 mg",
+    "administrationTime": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Take with meals to reduce stomach upset"
+  },
+  {
+    "sno": 5,
+    "genericName": "Amlodipine 5mg",
+    "brandName": "Amlong",
+    "manufacturer": "Micro Labs",
+    "dosage": "5 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take at the same time each day"
+  },
+  {
+    "sno": 6,
+    "genericName": "Atorvastatin 10mg",
+    "brandName": "Atorva",
+    "manufacturer": "Zydus Cadila",
+    "dosage": "10 mg",
+    "administrationTime": "Once daily at night",
+    "duration": "30 days",
+    "instructions": "Take as prescribed, get liver function tests regularly"
+  },
+  {
+    "sno": 7,
+    "genericName": "Omeprazole 20mg",
+    "brandName": "Omez",
+    "manufacturer": "Dr. Reddy's",
+    "dosage": "20 mg",
+    "administrationTime": "Once daily before breakfast",
+    "duration": "14 days",
+    "instructions": "Take on an empty stomach"
+  },
+  {
+    "sno": 8,
+    "genericName": "Ibuprofen 400mg",
+    "brandName": "Brufen",
+    "manufacturer": "Abbott",
+    "dosage": "400 mg",
+    "administrationTime": "Three times daily after food",
+    "duration": "3 days",
+    "instructions": "Take with food or milk to avoid stomach irritation"
+  },
+  {
+    "sno": 9,
+    "genericName": "Pantoprazole 40mg",
+    "brandName": "Pantocid",
+    "manufacturer": "Sun Pharma",
+    "dosage": "40 mg",
+    "administrationTime": "Once daily before food",
+    "duration": "30 days",
+    "instructions": "Swallow the tablet whole, do not crush or chew"
+  },
+  {
+    "sno": 10,
+    "genericName": "Losartan 50mg",
+    "brandName": "Losar",
+    "manufacturer": "Torrent Pharma",
+    "dosage": "50 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "Monitor blood pressure regularly"
+  },
+  {
+    "sno": 11,
+    "genericName": "Diclofenac Sodium 50mg",
+    "brandName": "Voveran",
+    "manufacturer": "Novartis",
+    "dosage": "50 mg",
+    "administrationTime": "Twice daily after food",
+    "duration": "5 days",
+    "instructions": "Can cause stomach upset, take with food"
+  },
+  {
+    "sno": 12,
+    "genericName": "Levothyroxine 50mcg",
+    "brandName": "Thyronorm",
+    "manufacturer": "Abbott",
+    "dosage": "50 mcg",
+    "administrationTime": "Once daily on empty stomach",
+    "duration": "Lifelong",
+    "instructions": "Take in the morning, at least 30 mins before food"
+  },
+  {
+    "sno": 13,
+    "genericName": "Azithromycin 500mg",
+    "brandName": "Azithral",
+    "manufacturer": "Alembic Pharma",
+    "dosage": "500 mg",
+    "administrationTime": "Once daily",
+    "duration": "3 days",
+    "instructions": "Take 1 hour before or 2 hours after food"
+  },
+  {
+    "sno": 14,
+    "genericName": "Montelukast 10mg",
+    "brandName": "Montair",
+    "manufacturer": "Cipla",
+    "dosage": "10 mg",
+    "administrationTime": "Once daily at night",
+    "duration": "30 days",
+    "instructions": "For asthma and allergy control"
+  },
+  {
+    "sno": 15,
+    "genericName": "Metoprolol 25mg",
+    "brandName": "Metolar",
+    "manufacturer": "Abbott",
+    "dosage": "25 mg",
+    "administrationTime": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Do not stop suddenly, taper off as advised"
+  },
+  {
+    "sno": 16,
+    "genericName": "Rabeprazole 20mg",
+    "brandName": "Rablet",
+    "manufacturer": "Lupin",
+    "dosage": "20 mg",
+    "administrationTime": "Once daily before breakfast",
+    "duration": "14 days",
+    "instructions": "For acid reflux and GERD"
+  },
+  {
+    "sno": 17,
+    "genericName": "Ciprofloxacin 500mg",
+    "brandName": "Cifran",
+    "manufacturer": "Ranbaxy",
+    "dosage": "500 mg",
+    "administrationTime": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Complete full course, avoid dairy products"
+  },
+  {
+    "sno": 18,
+    "genericName": "Aspirin 75mg",
+    "brandName": "Ecosprin",
+    "manufacturer": "USV Ltd",
+    "dosage": "75 mg",
+    "administrationTime": "Once daily after food",
+    "duration": "Lifelong",
+    "instructions": "Blood thinner, take as directed by cardiologist"
+  },
+  {
+    "sno": 19,
+    "genericName": "Glibenclamide 5mg",
+    "brandName": "Daonil",
+    "manufacturer": "Sanofi",
+    "dosage": "5 mg",
+    "administrationTime": "Once daily before breakfast",
+    "duration": "30 days",
+    "instructions": "Monitor blood sugar levels regularly"
+  },
+  {
+    "sno": 20,
+    "genericName": "Doxycycline 100mg",
+    "brandName": "Doxy-1",
+    "manufacturer": "Mankind Pharma",
+    "dosage": "100 mg",
+    "administrationTime": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take with a full glass of water, avoid lying down for 30 mins"
+  },
+  {
+    "sno": 21,
+    "genericName": "Clopidogrel 75mg",
+    "brandName": "Clopilet",
+    "manufacturer": "Sun Pharma",
+    "dosage": "75 mg",
+    "administrationTime": "Once daily",
+    "duration": "Lifelong",
+    "instructions": "Anti-platelet, do not miss doses"
+  },
+  {
+    "sno": 22,
+    "genericName": "Escitalopram 10mg",
+    "brandName": "Lexapro",
+    "manufacturer": "Intas Pharma",
+    "dosage": "10 mg",
+    "administrationTime": "Once daily in the morning",
+    "duration": "90 days",
+    "instructions": "Antidepressant, may take 2-4 weeks to show effect"
+  },
+  {
+    "sno": 23,
+    "genericName": "Fexofenadine 120mg",
+    "brandName": "Allegra",
+    "manufacturer": "Sanofi",
+    "dosage": "120 mg",
+    "administrationTime": "Once daily",
+    "duration": "As prescribed",
+    "instructions": "Non-drowsy antihistamine"
+  },
+  {
+    "sno": 24,
+    "genericName": "Vitamin D3 60K IU",
+    "brandName": "Uprise D3",
+    "manufacturer": "Sun Pharma",
+    "dosage": "60,000 IU",
+    "administrationTime": "Once a week",
+    "duration": "8 weeks",
+    "instructions": "Take after a meal for better absorption"
+  },
+  {
+    "sno": 25,
+    "genericName": "Sertraline 50mg",
+    "brandName": "Serta",
+    "manufacturer": "Torrent Pharma",
+    "dosage": "50 mg",
+    "administrationTime": "Once daily in the morning",
+    "duration": "90 days",
+    "instructions": "Used for depression and anxiety, follow up regularly"
+  },
+  {
+    "sno": 26,
+    "genericName": "Telmisartan 40mg",
+    "brandName": "Telmikind",
+    "manufacturer": "Mankind",
+    "dosage": "40 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "For high blood pressure"
+  },
+  {
+    "sno": 27,
+    "genericName": "Ranitidine 150mg",
+    "brandName": "Zinetac",
+    "manufacturer": "GSK",
+    "dosage": "150 mg",
+    "administrationTime": "Twice daily",
+    "duration": "14 days",
+    "instructions": "For heartburn and acid indigestion"
+  },
+  {
+    "sno": 28,
+    "genericName": "Pregabalin 75mg",
+    "brandName": "Pregaba",
+    "manufacturer": "Intas",
+    "dosage": "75 mg",
+    "administrationTime": "Twice daily",
+    "duration": "30 days",
+    "instructions": "For neuropathic pain, may cause dizziness"
+  },
+  {
+    "sno": 29,
+    "genericName": "Domperidone 10mg",
+    "brandName": "Domstal",
+    "manufacturer": "Sun Pharma",
+    "dosage": "10 mg",
+    "administrationTime": "Three times daily before food",
+    "duration": "3 days",
+    "instructions": "For nausea and vomiting"
+  },
+  {
+    "sno": 30,
+    "genericName": "Atenolol 50mg",
+    "brandName": "Aten",
+    "manufacturer": "Zydus Cadila",
+    "dosage": "50 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "Beta-blocker for hypertension and angina"
+  },
+  {
+    "sno": 31,
+    "genericName": "Fluoxetine 20mg",
+    "brandName": "Flunil",
+    "manufacturer": "Sun Pharma",
+    "dosage": "20 mg",
+    "administrationTime": "Once daily in the morning",
+    "duration": "90 days",
+    "instructions": "SSRI antidepressant"
+  },
+  {
+    "sno": 32,
+    "genericName": "Caffeine Citrate 20mg/ml",
+    "brandName": "Caffene",
+    "manufacturer": "Neon Labs",
+    "dosage": "As per weight",
+    "administrationTime": "As directed",
+    "duration": "As prescribed",
+    "instructions": "For apnea of prematurity in neonates"
+  },
+  {
+    "sno": 33,
+    "genericName": "Lansoprazole 30mg",
+    "brandName": "Lanzol",
+    "manufacturer": "Cipla",
+    "dosage": "30 mg",
+    "administrationTime": "Once daily before food",
+    "duration": "14 days",
+    "instructions": "Proton pump inhibitor"
+  },
+  {
+    "sno": 34,
+    "genericName": "Hydrochlorothiazide 12.5mg",
+    "brandName": "Aquazide",
+    "manufacturer": "USV Ltd",
+    "dosage": "12.5 mg",
+    "administrationTime": "Once daily in the morning",
+    "duration": "30 days",
+    "instructions": "Diuretic, may increase urination"
+  },
+  {
+    "sno": 35,
+    "genericName": "Methylcobalamin 1500mcg",
+    "brandName": "Meconerv",
+    "manufacturer": "Mankind",
+    "dosage": "1500 mcg",
+    "administrationTime": "Once daily after food",
+    "duration": "30 days",
+    "instructions": "Vitamin B12 supplement for nerve health"
+  },
+  {
+    "sno": 36,
+    "genericName": "Tramadol 50mg",
+    "brandName": "Tramazac",
+    "manufacturer": "Zydus",
+    "dosage": "50 mg",
+    "administrationTime": "As required for pain",
+    "duration": "3 days",
+    "instructions": "Opioid pain reliever, may be habit-forming"
+  },
+  {
+    "sno": 37,
+    "genericName": "Spironolactone 25mg",
+    "brandName": "Spirotone",
+    "manufacturer": "Cipla",
+    "dosage": "25 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "Diuretic, conserve potassium"
+  },
+  {
+    "sno": 38,
+    "genericName": "Bisoprolol 2.5mg",
+    "brandName": "Concor",
+    "manufacturer": "EMCURE",
+    "dosage": "2.5 mg",
+    "administrationTime": "Once daily",
+    "duration": "30 days",
+    "instructions": "Beta-blocker for heart conditions"
+  },
+  {
+    "sno": 39,
+    "genericName": "Diazepam 5mg",
+    "brandName": "Calmpose",
+    "manufacturer": "Ranbaxy",
+    "dosage": "5 mg",
+    "administrationTime": "At bedtime as needed",
+    "duration": "7 days",
+    "instructions": "Sedative, avoid alcohol and driving"
+  },
+  {
+    "sno": 40,
+    "genericName": "Lorazepam 1mg",
+    "brandName": "Ativan",
+    "manufacturer": "Sun Pharma",
+    "dosage": "1 mg",
+    "administrationTime": "As needed for anxiety",
+    "duration": "As prescribed",
+    "instructions": "Short-term anxiety relief"
+  },
+  {
+    "sno": 41,
+    "genericName": "Gabapentin 300mg",
+    "brandName": "Gabarich",
+    "manufacturer": "Aristo Pharma",
+    "dosage": "300 mg",
+    "administrationTime": "Three times daily",
+    "duration": "30 days",
+    "instructions": "For seizures and nerve pain"
+  },
+  {
+    "sno": 42,
+    "genericName": "Warfarin 5mg",
+    "brandName": "Warf",
+    "manufacturer": "Abbott",
+    "dosage": "5 mg",
+    "administrationTime": "Once daily at same time",
+    "duration": "Lifelong",
+    "instructions": "Blood thinner, requires regular INR monitoring"
+  },
+  {
+    "sno": 43,
+    "genericName": "Alprazolam 0.25mg",
+    "brandName": "Alprax",
+    "manufacturer": "Sun Pharma",
+    "dosage": "0.25 mg",
+    "administrationTime": "As needed for anxiety",
+    "duration": "Short-term",
+    "instructions": "Can cause dependence, use with caution"
+  },
+  {
+    "sno": 44,
+    "genericName": "Rosuvastatin 10mg",
+    "brandName": "Razel",
+    "manufacturer": "Glenmark",
+    "dosage": "10 mg",
+    "administrationTime": "Once daily at night",
+    "duration": "30 days",
+    "instructions": "Statin for high cholesterol"
+  },
+  {
+    "sno": 45,
+    "genericName": "Levetiracetam 500mg",
+    "brandName": "Levepsy",
+    "manufacturer": "Intas",
+    "dosage": "500 mg",
+    "administrationTime": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Antiepileptic medication"
+  },
+  {
+    "sno": 46,
+    "genericName": "Prednisolone 5mg",
+    "brandName": "Omnacortil",
+    "manufacturer": "Macleods",
+    "dosage": "5 mg",
+    "administrationTime": "Once daily after breakfast",
+    "duration": "As per tapering schedule",
+    "instructions": "Steroid, do not stop abruptly"
+  },
+  {
+    "sno": 47,
+    "genericName": "Cephalexin 500mg",
+    "brandName": "Sporidex",
+    "manufacturer": "Ranbaxy",
+    "dosage": "500 mg",
+    "administrationTime": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Antibiotic for bacterial infections"
+  },
+  {
+    "sno": 48,
+    "genericName": "Ondansetron 4mg",
+    "brandName": "Voncem",
+    "manufacturer": "Alkem",
+    "dosage": "4 mg",
+    "administrationTime": "Three times daily as needed",
+    "duration": "As required",
+    "instructions": "For nausea and vomiting, dissolves on tongue"
+  },
+  {
+    "sno": 49,
+    "genericName": "Multivitamin Tablet",
+    "brandName": "Becadexamin",
+    "manufacturer": "GSK",
+    "dosage": "1 Tablet",
+    "administrationTime": "Once daily after food",
+    "duration": "30 days",
+    "instructions": "Nutritional supplement"
+  },
+  {
+    "sno": 50,
+    "genericName": "Ferrous Ascorbate 100mg",
+    "brandName": "Fefol",
+    "manufacturer": "Zydus Cadila",
+    "dosage": "100 mg",
+    "administrationTime": "Once daily",
+    "duration": "60 days",
+    "instructions": "Iron supplement for anemia, may cause constipation"
+  }
+]
